@@ -1,0 +1,12 @@
+2023.11.08 09:40:35 INFO  Started: Metals version 1.1.0 in folders '/home/gianluca/Programming/scalapy-almond-base' for client Visual Studio Code 1.77.1.[0m
+2023.11.08 09:40:35 WARN  Build server is not auto-connectable.[0m
+2023.11.08 09:40:35 WARN  no build tool detected in workspace '/home/gianluca/Programming/scalapy-almond-base'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2023.11.09 15:09:02 INFO  Started: Metals version 1.1.0 in folders '/home/gianluca/Programming/scalapy-almond-base' for client Visual Studio Code 1.77.1.
+2023.11.09 15:09:03 WARN  Build server is not auto-connectable.
+2023.11.09 15:09:03 WARN  no build tool detected in workspace '/home/gianluca/Programming/scalapy-almond-base'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.11.09 15:09:29 INFO  Shutting down server
+2023.11.09 15:09:29 INFO  shutting down Metals
+2023.11.09 15:09:29 INFO  Exiting server
+2023.11.09 18:10:56 INFO  Started: Metals version 1.1.0 in folders '/home/gianluca/Programming/scalapy-almond-base' for client Visual Studio Code 1.77.1.
+2023.11.09 18:10:56 WARN  Build server is not auto-connectable.
+2023.11.09 18:10:56 WARN  no build tool detected in workspace '/home/gianluca/Programming/scalapy-almond-base'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
